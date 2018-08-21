@@ -8,4 +8,5 @@
 - ServerSocket、Socket
 - ExecutorService、Executors
 - IO
+- http协议
 ## 后续会增加其他功能
